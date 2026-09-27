@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://movingfrompuertorico.com/sitemap.xml
